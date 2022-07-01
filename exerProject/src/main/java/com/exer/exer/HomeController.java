@@ -36,6 +36,7 @@ public class HomeController {
 		return "home";
 		
 		// 나는 탈주
+		// 아니 받아줘요
 	}
 	
 }
